@@ -1,9 +1,12 @@
 # YULIYA HARBACHEUSKAYA
 Minsk, Belarus
+
 ***
+
 | PHONE | EMAIL | SOCIALS  |
 |---|---|---|
 | +375(29)7617224 | yulia.harbacheuckaya@gmail.com  | yuliyaharbacheuskaya (LinkedIn)|
+
 ---
 # Summary
 * Highly motivated *Junior Front-end Developer* with over 10 years of overall experience in IT, devloping and testing Web, desktop and mobile applications for different industries (Education, E-commerce, Games, Retail Business, Content Management Systems (CMS)).
