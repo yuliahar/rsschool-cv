@@ -13,6 +13,7 @@ Minsk, Belarus
 * Experienced in working both as a solo and as part of a team, including greatly distributed teams around the world.
 * Worked according to the best practices and standards (Agile methodologies, continuous integration and delivery, code reviews, etc).
 * Student of RS School.
+
 ---
 # Technical Skills
 * **Programming languages and technologies**: JavaScript, HTML, CSS, Java, Python
@@ -22,6 +23,7 @@ Minsk, Belarus
 * **Version control system**: Git, Bitbucket
 * **Continuous integration**: Jenkins, TeamCity 
 * **Tracking systems**: JIRA, Redmine, Bugzilla, Confluence, Trello
+
 ---
 # Professional Experience
 * **SEVEREX**, 06/2016 – 10/2018
