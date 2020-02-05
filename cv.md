@@ -22,23 +22,31 @@ Minsk, Belarus
 ---
 # Professional Experience
 **SEVEREX**, 06/2016 – 10/2018
-// Senior QC Engineer
+
+Senior QC Engineer
+
 Project: The Pegasus Big Data Analytics and Information Management Platform https://pegasus.ae/
 
 **WARGAMING.NET**, 08/2014 – 12/2015
-// Senior QA Engineer
+
+Senior QA Engineer
+
 Projects: http://worldoftanks.ru/, http://console.worldoftanks.com/, http://wotblitz.ru/
 
 **ALTOROS**, 10/2012 – 08/2014
-//  QA Lead, Senior QA Engineer
+
+QA Lead, Senior QA Engineer
 
 **SOFTEQ DEVELOPMENT**, 05/2011 – 10/2012
-// Middle QA Engineer
+
+Middle QA Engineer
+
 ---
 # Education
 **BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIOELECTRONICS**, 2006 – 2010
 *Bachelor's Degree*
 in Computer Science and Economics
+
 ---
 # Languages
 English: B1
